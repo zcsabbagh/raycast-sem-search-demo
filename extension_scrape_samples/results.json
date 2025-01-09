@@ -1,0 +1,188 @@
+[
+    {
+      "extensionTitle": "YouTube",
+      "extensionDescription": "Search Videos, Channels, and more...",
+      "extensionURL": "https://www.raycast.com/tonka3000/youtube",
+      "extensionIconURL": "https://files.raycast.com/qorj5p4eer709pdk0c90n3i9xg7h",
+      "extensionCreator": "Tonka",
+      "extensionCreatorURL": "https://www.raycast.com/tonka3000",
+      "commands": [
+        {
+          "extensionCommand": "search-videos",
+          "extensionCommandDescription": "Search YouTube Videos"
+        },
+        {
+          "extensionCommand": "search-channel",
+          "extensionCommandDescription": "Search YouTube Channels"
+        },
+        {
+          "extensionCommand": "popular-videos",
+          "extensionCommandDescription": "Show Popular YouTube Videos"
+        }
+      ]
+    },
+    {
+      "extensionTitle": "Jira",
+      "extensionDescription": "Create, access, and modify issues and sprints.",
+      "extensionURL": "https://www.raycast.com/raycast/jira",
+      "extensionIconURL": "https://files.raycast.com/mmixgx4ksb95i5bdqkrijeie19rz",
+      "extensionCreator": "Raycast",
+      "extensionCreatorURL": "https://www.raycast.com/raycast",
+      "commands": [
+        {
+          "extensionCommand": "create-issue",
+          "extensionCommandDescription": "Create and assign new issues."
+        },
+        {
+          "extensionCommand": "open-issues",
+          "extensionCommandDescription": "View and modify open issues that are assigned to you."
+        },
+        {
+          "extensionCommand": "reported-issues",
+          "extensionCommandDescription": "View and modify issues that were reported by you."
+        },
+        {
+          "extensionCommand": "watched-issues",
+          "extensionCommandDescription": "View and modify issues that you are watching."
+        },
+        {
+          "extensionCommand": "active-sprints",
+          "extensionCommandDescription": "View and modify issues of active sprints."
+        },
+        {
+          "extensionCommand": "my-filters",
+          "extensionCommandDescription": "View and modify issues of your saved filters."
+        },
+        {
+          "extensionCommand": "recently-updated-issues",
+          "extensionCommandDescription": "View and modify issues that have recently been updated."
+        },
+        {
+          "extensionCommand": "search-issues",
+          "extensionCommandDescription": "Search issues globally in all projects."
+        },
+        {
+          "extensionCommand": "open-from-clipboard",
+          "extensionCommandDescription": "Open an issue by its key from the clipboard."
+        }
+      ]
+    },
+    {
+      "extensionTitle": "Remove Paywall",
+      "extensionDescription": "Remove the paywall from the selected or clipboard URL.",
+      "extensionURL": "https://www.raycast.com/tegola/remove-paywall",
+      "extensionIconURL": "https://files.raycast.com/ubw4jgaa8krn6cnxysyl25z2ag5x",
+      "extensionCreator": "Alan Sprecacenere",
+      "extensionCreatorURL": "https://www.raycast.com/tegola",
+      "commands": [
+        {
+          "extensionCommand": "Remove Paywall",
+          "extensionCommandDescription": "Remove the paywall from the selected or clipboard URL."
+        }
+      ]
+    },
+    {
+      "extensionTitle": "Google Gemini",
+      "extensionDescription": "Use the Google Gemini from the comfort of Raycast.",
+      "extensionURL": "https://www.raycast.com/EvanZhouDev/raycast-gemini",
+      "extensionIconURL": "https://files.raycast.com/avasct27yrro5z8mbnafuisjdg5w",
+      "extensionCreator": "Evan Zhou",
+      "extensionCreatorURL": "https://www.raycast.com/EvanZhouDev",
+      "commands": [
+        {
+          "extensionCommand": "askAI",
+          "extensionCommandDescription": "Ask Google's Gemini Pro"
+        },
+        {
+          "extensionCommand": "aiChat",
+          "extensionCommandDescription": "Chat with Google's Gemini Pro"
+        },
+        {
+          "extensionCommand": "askAboutScreen",
+          "extensionCommandDescription": "Ask Google's Gemini Pro about what's on your screen"
+        },
+        {
+          "extensionCommand": "askAboutSelectedText",
+          "extensionCommandDescription": "Ask Google's Gemini Pro about your selected text"
+        },
+        {
+          "extensionCommand": "summarize",
+          "extensionCommandDescription": "Summarize text"
+        },
+        {
+          "extensionCommand": "explain",
+          "extensionCommandDescription": "Explain text"
+        },
+        {
+          "extensionCommand": "comment",
+          "extensionCommandDescription": "Add comments to code"
+        },
+        {
+          "extensionCommand": "friendly",
+          "extensionCommandDescription": "Change tone of selected text to friendly"
+        },
+        {
+          "extensionCommand": "professional",
+          "extensionCommandDescription": "Change tone of selected text to professional"
+        },
+        {
+          "extensionCommand": "synonym",
+          "extensionCommandDescription": "Find synonym of selected word"
+        },
+        {
+          "extensionCommand": "grammar",
+          "extensionCommandDescription": "Fix spelling and grammar of selected text"
+        },
+        {
+          "extensionCommand": "longer",
+          "extensionCommandDescription": "Make selected text longer"
+        },
+        {
+          "extensionCommand": "shorter",
+          "extensionCommandDescription": "Make selected text shorter"
+        },
+        {
+          "extensionCommand": "translate",
+          "extensionCommandDescription": "Translate selected text"
+        }
+      ]
+    },
+    {
+      "extensionTitle": "Safari",
+      "extensionDescription": "Manage your Safari Tabs, History and Reading List",
+      "extensionURL": "https://www.raycast.com/loris/safari",
+      "extensionIconURL": "https://files.raycast.com/d705rcsztaduk91c8zvosk55cqcr",
+      "extensionCreator": "Loris Guignard",
+      "extensionCreatorURL": "https://www.raycast.com/loris",
+      "commands": [
+        {
+          "extensionCommand": "Search Tabs",
+          "extensionCommandDescription": "Browse your open tabs"
+        },
+        {
+          "extensionCommand": "Search Reading List",
+          "extensionCommandDescription": "Browse your reading list"
+        },
+        {
+          "extensionCommand": "Add to Reading List",
+          "extensionCommandDescription": "Add the current Safari tab to your Reading List"
+        },
+        {
+          "extensionCommand": "Search History",
+          "extensionCommandDescription": "Browse your history"
+        },
+        {
+          "extensionCommand": "Search Bookmarks",
+          "extensionCommandDescription": "Browse your bookmarks"
+        },
+        {
+          "extensionCommand": "Copy URL to Clipboard",
+          "extensionCommandDescription": "Copy the current Safari tab URL to your clipboard"
+        },
+        {
+          "extensionCommand": "Copy Title as Link to Clipboard",
+          "extensionCommandDescription": "Copy the current Safari tab title as Markdown link ([title](url)) to your clipboard"
+        }
+      ]
+    }
+  ]

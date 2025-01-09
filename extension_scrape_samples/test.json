@@ -1,0 +1,442 @@
+[
+    {
+      "extensionTitle": "Kill Process",
+      "extensionDescription": "Terminate processes sorted by CPU or memory usage",
+      "extensionURL": "https://www.raycast.com/rolandleth/kill-process",
+      "extensionIconURL": "https://files.raycast.com/2hvbxiqvm9g74rhxfr4rwqs1kjf5",
+      "extensionCreator": "Roland Leth",
+      "extensionCreatorURL": "https://www.raycast.com/rolandleth",
+      "commands": [
+        {
+          "extensionCommand": "index",
+          "extensionCommandDescription": "Lists all running processes, ordered by CPU or memory usage and allows killing one"
+        }
+      ]
+    },
+    {
+      "extensionTitle": "Google Chrome",
+      "extensionDescription": "Search open tabs, bookmarks and history in Google Chrome.",
+      "extensionURL": "https://www.raycast.com/Codely/google-chrome",
+      "extensionIconURL": "https://files.raycast.com/j8wnjbnscm9vo2kpmgt92dnd1syp",
+      "extensionCreator": "Codely",
+      "extensionCreatorURL": "https://www.raycast.com/Codely",
+      "commands": [
+        {
+          "extensionCommand": "search-tab",
+          "extensionCommandDescription": "List all tabs and go to the selected."
+        },
+        {
+          "extensionCommand": "search-history",
+          "extensionCommandDescription": "Search browser history."
+        },
+        {
+          "extensionCommand": "search-bookmarks",
+          "extensionCommandDescription": "Search browser bookmarks."
+        },
+        {
+          "extensionCommand": "search-all",
+          "extensionCommandDescription": "Search browser all tabs and history,bookmarks."
+        },
+        {
+          "extensionCommand": "new-window",
+          "extensionCommandDescription": "Create New Window."
+        },
+        {
+          "extensionCommand": "new-tab",
+          "extensionCommandDescription": "Open a new Google Chrome tab."
+        }
+      ]
+    },
+    {
+      "extensionTitle": "Color Picker",
+      "extensionDescription": "Pick and organize colors, everywhere on your Mac",
+      "extensionURL": "https://www.raycast.com/thomas/color-picker",
+      "extensionIconURL": "https://files.raycast.com/beuxe2e5niesf0fz1l112ysg1hlh",
+      "extensionCreator": "Thomas Paul Mann",
+      "extensionCreatorURL": "https://www.raycast.com/thomas",
+      "commands": [
+        {
+          "extensionCommand": "pick-color",
+          "extensionCommandDescription": "Pick a color on your desktop"
+        },
+        {
+          "extensionCommand": "menu-bar",
+          "extensionCommandDescription": "Access your colors from the menu bar"
+        },
+        {
+          "extensionCommand": "organize-colors",
+          "extensionCommandDescription": "Organize your colors"
+        },
+        {
+          "extensionCommand": "generate-colors",
+          "extensionCommandDescription": "Generate colors using AI"
+        },
+        {
+          "extensionCommand": "color-names",
+          "extensionCommandDescription": "Get the name of a color"
+        },
+        {
+          "extensionCommand": "color-wheel",
+          "extensionCommandDescription": "Pick a color with color wheel"
+        },
+        {
+          "extensionCommand": "convert-color",
+          "extensionCommandDescription": "Convert any color to a different format"
+        }
+      ]
+    },
+    {
+      "extensionTitle": "Google Translate",
+      "extensionDescription": "Simple translation using Google Translate",
+      "extensionURL": "https://www.raycast.com/gebeto/translate",
+      "extensionIconURL": "https://files.raycast.com/hjen2llosvmrft027vn0wfafwjem",
+      "extensionCreator": "Slavik Nychkalo",
+      "extensionCreatorURL": "https://www.raycast.com/gebeto",
+      "commands": [
+        {
+          "extensionCommand": "translate",
+          "extensionCommandDescription": "Simple translation via Google Translate"
+        },
+        {
+          "extensionCommand": "translate-form",
+          "extensionCommandDescription": "Simple translation via Google Translate"
+        },
+        {
+          "extensionCommand": "quick-translate",
+          "extensionCommandDescription": "Quickly translate to multiple languages"
+        }
+      ]
+    },
+    {
+      "extensionTitle": "Visual Studio Code",
+      "extensionDescription": "Control Visual Studio Code, Cursor & Codium directly from Raycast - Search and open recent projects, handle extensions and commands.",
+      "extensionURL": "https://www.raycast.com/thomas/visual-studio-code",
+      "extensionIconURL": "https://files.raycast.com/651r274rjt94299scrn0dv3c9s68",
+      "extensionCreator": "Thomas Paul Mann",
+      "extensionCreatorURL": "https://www.raycast.com/thomas",
+      "commands": [
+        {
+          "extensionCommand": "index",
+          "extensionCommandDescription": "Search and open recent projects from Visual Studio Code."
+        },
+        {
+          "extensionCommand": "open-with-vscode",
+          "extensionCommandDescription": "Opens the currently selected Finder item with Visual Studio Code."
+        },
+        {
+          "extensionCommand": "open-new-window",
+          "extensionCommandDescription": "Opens a new Visual Studio Code window."
+        },
+        {
+          "extensionCommand": "extensions",
+          "extensionCommandDescription": "Manage Installed Extensions"
+        },
+        {
+          "extensionCommand": "install-extension",
+          "extensionCommandDescription": "Install Extensions from the VSCode Marketplace"
+        },
+        {
+          "extensionCommand": "commandpalette",
+          "extensionCommandDescription": "Show Commands of the VSCode Command Palette"
+        }
+      ]
+    },
+    {
+      "extensionTitle": "Spotify Player",
+      "extensionDescription": "Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currently playing directly from the menu bar.",
+      "extensionURL": "https://www.raycast.com/mattisssa/spotify-player",
+      "extensionIconURL": "https://files.raycast.com/ayos0ow96kcaskv1jafd65447z8w",
+      "extensionCreator": "Artem Konovalov",
+      "extensionCreatorURL": "https://www.raycast.com/mattisssa",
+      "commands": [
+        {
+          "extensionCommand": "Search",
+          "extensionCommandDescription": "A single unified search command. Use this to search for artists, albums, songs, playlists, podcasts, and episodes. Use the dropdown menu to filter your search to a specific category. Each category offers contextual actions, so you can dive deeper into the search."
+        },
+        {
+          "extensionCommand": "Your Library",
+          "extensionCommandDescription": "Use this to see your saved artists, albums, songs, playlists, and podcasts. Similar to the \"Search\" command, it includes a category dropdown and contextual actions."
+        },
+        {
+          "extensionCommand": "Now Playing",
+          "extensionCommandDescription": "See what's currently playing. Use the actions (⌘ K) for further actions, such as Play/Pause, Like/Dislike, Skip, Start Radio, Add to Playlist, Connect Device and more."
+        },
+        {
+          "extensionCommand": "Menu Bar Player",
+          "extensionCommandDescription": "See what's currently playing in your Menu Bar. Click for further actions, such as Play/Pause, Like/Dislike, Skip, Start Radio, Add to Playlist, Connect Device and more. Refreshes every 10 seconds."
+        },
+        {
+          "extensionCommand": "Toggle Play/Pause",
+          "extensionCommandDescription": "Use this to toggle the playback of the current song."
+        },
+        {
+          "extensionCommand": "Next",
+          "extensionCommandDescription": "Use this to skip to the next song/episode."
+        },
+        {
+          "extensionCommand": "Previous",
+          "extensionCommandDescription": "Use this to skip to the previous song/episode."
+        },
+        {
+          "extensionCommand": "Like",
+          "extensionCommandDescription": "Use this to like the current song."
+        },
+        {
+          "extensionCommand": "Dislike",
+          "extensionCommandDescription": "Use this to dislike the current song."
+        },
+        {
+          "extensionCommand": "Add Playing Song to Playlist",
+          "extensionCommandDescription": "Use this to add the current song to a playlist of your choice."
+        },
+        {
+          "extensionCommand": "Remove Playing Song from Playlist",
+          "extensionCommandDescription": "Use this to remove the current song from the playlist it's in."
+        },
+        {
+          "extensionCommand": "Set Volume to 0%",
+          "extensionCommandDescription": "Use this to mute the volume."
+        },
+        {
+          "extensionCommand": "Set Volume to 25%",
+          "extensionCommandDescription": "Use this to set the volume to 25%."
+        },
+        {
+          "extensionCommand": "Set Volume to 50%",
+          "extensionCommandDescription": "Use this to set the volume to 50%."
+        },
+        {
+          "extensionCommand": "Set Volume to 75%",
+          "extensionCommandDescription": "Use this to set the volume to 75%."
+        },
+        {
+          "extensionCommand": "Set Volume to 100%",
+          "extensionCommandDescription": "Use this to set the volume to 100%."
+        },
+        {
+          "extensionCommand": "Turn Volume Down",
+          "extensionCommandDescription": "Use this to turn the volume down by 10%."
+        },
+        {
+          "extensionCommand": "Turn Volume Up",
+          "extensionCommandDescription": "Use this to turn the volume up by 10%."
+        },
+        {
+          "extensionCommand": "Toggle Shuffle",
+          "extensionCommandDescription": "Use this to toggle shuffle."
+        },
+        {
+          "extensionCommand": "Toggle Repeat",
+          "extensionCommandDescription": "Use this to toggle repeat."
+        },
+        {
+          "extensionCommand": "Start Radio",
+          "extensionCommandDescription": "Use this to start a radio station based on the current song."
+        },
+        {
+          "extensionCommand": "Copy URL",
+          "extensionCommandDescription": "Use this to copy the URL of the current song/episode."
+        },
+        {
+          "extensionCommand": "Just Play",
+          "extensionCommandDescription": "Use this to quickly start playing a song based on your query."
+        },
+        {
+          "extensionCommand": "Generate Playlist",
+          "extensionCommandDescription": "Use this to get a playlist generated by Raycast AI based on a prompt. You can then add this playlist to Spotify or queue all the songs directly."
+        }
+      ]
+    },
+    {
+      "extensionTitle": "Linear",
+      "extensionDescription": "Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar.",
+      "extensionURL": "https://www.raycast.com/linear/linear",
+      "extensionIconURL": "https://files.raycast.com/mvceuwg0bgxw97s5cxz92ytb0mku",
+      "extensionCreator": "Linear",
+      "extensionCreatorURL": "https://www.raycast.com/linear",
+      "commands": [
+        {
+          "extensionCommand": "create-issue",
+          "extensionCommandDescription": "Create and assign new issues."
+        },
+        {
+          "extensionCommand": "search-issues",
+          "extensionCommandDescription": "Search issues globally in all projects."
+        },
+        {
+          "extensionCommand": "assigned-issues",
+          "extensionCommandDescription": "View and modify issues that are assigned to you."
+        },
+        {
+          "extensionCommand": "created-issues",
+          "extensionCommandDescription": "View and modify issues that you have created."
+        },
+        {
+          "extensionCommand": "active-cycle",
+          "extensionCommandDescription": "View and modify issues that are in the active cycle."
+        },
+        {
+          "extensionCommand": "search-projects",
+          "extensionCommandDescription": "Explore projects for your Linear team."
+        },
+        {
+          "extensionCommand": "search-documents",
+          "extensionCommandDescription": "Explore documents for your Linear team."
+        },
+        {
+          "extensionCommand": "create-project",
+          "extensionCommandDescription": "Create projects for your Linear team."
+        },
+        {
+          "extensionCommand": "notifications",
+          "extensionCommandDescription": "Read your latest Linear notifications."
+        },
+        {
+          "extensionCommand": "unread-notifications",
+          "extensionCommandDescription": "Show unread notifications in the Menu Bar."
+        },
+        {
+          "extensionCommand": "create-issue-for-myself",
+          "extensionCommandDescription": "Create and assign a new issue to yourself."
+        },
+        {
+          "extensionCommand": "quick-add-comment-to-issue",
+          "extensionCommandDescription": "Quickly add a comment to an issue using its ID."
+        },
+        {
+          "extensionCommand": "favorites",
+          "extensionCommandDescription": "Browse through your Linear favorites."
+        }
+      ]
+    },
+    {
+      "extensionTitle": "Slack",
+      "extensionDescription": "Search for chats, see unread messages, snooze notifications, and set your presence status.",
+      "extensionURL": "https://www.raycast.com/mommertf/slack",
+      "extensionIconURL": "https://files.raycast.com/n8n0g1egdudjl0acqlscjzllvncp",
+      "extensionCreator": "Momme",
+      "extensionCreatorURL": "https://www.raycast.com/mommertf",
+      "commands": [
+        {
+          "extensionCommand": "search",
+          "extensionCommandDescription": "Search for all workspace members, group chats, and channels and open them directly in your Slack app."
+        },
+        {
+          "extensionCommand": "search-messages",
+          "extensionCommandDescription": "Search for Slack messages."
+        },
+        {
+          "extensionCommand": "open-unread-messages",
+          "extensionCommandDescription": "Open an overview of unread messages directly in your native Slack app."
+        },
+        {
+          "extensionCommand": "unread-messages",
+          "extensionCommandDescription": "Browse through unread messages within direct messages, channels and groups."
+        },
+        {
+          "extensionCommand": "set-snooze",
+          "extensionCommandDescription": "Set settings for how long you want to snooze notifications."
+        },
+        {
+          "extensionCommand": "set-presence",
+          "extensionCommandDescription": "Let Slack decide automatically how to show your presence status or force it to be shown as offline."
+        }
+      ]
+    },
+    {
+      "extensionTitle": "Arc",
+      "extensionDescription": "Search and quickly navigate Arc's history and open tabs",
+      "extensionURL": "https://www.raycast.com/the-browser-company/arc",
+      "extensionIconURL": "https://files.raycast.com/7u5x6y7777kiq92f3d9uyazhii2t",
+      "extensionCreator": "The Browser Company",
+      "extensionCreatorURL": "https://www.raycast.com/the-browser-company",
+      "commands": [
+        {
+          "extensionCommand": "search-history",
+          "extensionCommandDescription": "Search your browsing history"
+        },
+        {
+          "extensionCommand": "new-window",
+          "extensionCommandDescription": "Create and open a new window"
+        },
+        {
+          "extensionCommand": "new-blank-window",
+          "extensionCommandDescription": "Create and open a new blank window"
+        },
+        {
+          "extensionCommand": "new-little-arc",
+          "extensionCommandDescription": "Create and open a new little arc window"
+        },
+        {
+          "extensionCommand": "search-spaces",
+          "extensionCommandDescription": "Search and select your spaces"
+        },
+        {
+          "extensionCommand": "search-tabs",
+          "extensionCommandDescription": "Search and select your tabs"
+        },
+        {
+          "extensionCommand": "search-downloads",
+          "extensionCommandDescription": "Search your downloads"
+        },
+        {
+          "extensionCommand": "new-incognito-window",
+          "extensionCommandDescription": "Create and open a new incognito window"
+        },
+        {
+          "extensionCommand": "new-tab",
+          "extensionCommandDescription": "Create and open a new tab in the current window"
+        },
+        {
+          "extensionCommand": "menu-bar",
+          "extensionCommandDescription": "Access your spaces and favorites from the menu bar"
+        },
+        {
+          "extensionCommand": "search",
+          "extensionCommandDescription": "Search tabs, history and search suggestions"
+        },
+        {
+          "extensionCommand": "release-notes",
+          "extensionCommandDescription": "Open the Arc release notes"
+        },
+        {
+          "extensionCommand": "boost-gallery",
+          "extensionCommandDescription": "Open the Arc Boost Gallery"
+        },
+        {
+          "extensionCommand": "new-easel",
+          "extensionCommandDescription": "Open a new easel"
+        }
+      ]
+    },
+    {
+      "extensionTitle": "Brew",
+      "extensionDescription": "Search and install Homebrew formulae",
+      "extensionURL": "https://www.raycast.com/nhojb/brew",
+      "extensionIconURL": "https://files.raycast.com/caw766mdn1i9b0pmu0pg3ndmminq",
+      "extensionCreator": "John Buckley",
+      "extensionCreatorURL": "https://www.raycast.com/nhojb",
+      "commands": [
+        {
+          "extensionCommand": "installed",
+          "extensionCommandDescription": "List installed brew formulae & casks"
+        },
+        {
+          "extensionCommand": "search",
+          "extensionCommandDescription": "Search brew formulae & casks"
+        },
+        {
+          "extensionCommand": "outdated",
+          "extensionCommandDescription": "Show outdated brew formulae & casks"
+        },
+        {
+          "extensionCommand": "upgrade",
+          "extensionCommandDescription": "Upgrade brew formulae & casks"
+        },
+        {
+          "extensionCommand": "clean-up",
+          "extensionCommandDescription": "Clean files and packages from the cache that are older than 120 days"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@ai-sdk/openai": "^1.0.14",
+    "@langchain/community": "^0.3.22",
+    "@langchain/core": "^0.3.27",
+    "@langchain/langgraph": "^0.2.39",
+    "@langchain/openai": "^0.3.16",
+    "@langchain/textsplitters": "^0.1.0",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "langchain": "^0.3.10",
+    "llm-scraper": "^1.5.1",
+    "playwright": "^1.49.1",
+    "zod": "^3.24.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  },
+  "scripts": {
+    "scrape": "NODE_NO_WARNINGS=1 node --loader ts-node/esm scrape.ts",
+    "search": "NODE_NO_WARNINGS=1 node --loader ts-node/esm rag.ts",
+    "start": "npm run search"
+  }
+}
