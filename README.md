@@ -17,12 +17,12 @@
    Feel free to change the NUM_PAGES variable to scrape more or fewer pages.
    This might take a while to run.
    ```bash
-   ts-node --loader ts-node/esm scrape.ts
+   npm run scrape
    ```
 
 4. Run the RAG script:
    Feel free to change the USER_COMMAND variable to test different queries.
       ```bash
-   ts-node --loader ts-node/esm rag.ts
+   npm run search
    ```
 
